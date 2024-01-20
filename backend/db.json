@@ -1,0 +1,22 @@
+{
+  "students": [
+    {
+      "name": "roshan",
+      "password": "",
+      "address": "dsadddd",
+      "city": "pune",
+      "dob": "1997-11-19",
+      "zip": "dfsdfd",
+      "id": 1
+    },
+    {
+      "name": "roshan ",
+      "password": "",
+      "address": "jhkfashfkjsad",
+      "city": "kerkwerjk",
+      "dob": "1111-11-11",
+      "zip": "rewerw",
+      "id": 2
+    }
+  ]
+}

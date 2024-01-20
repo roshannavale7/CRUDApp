@@ -1,0 +1,33 @@
+form {
+    justify-content: center;
+    margin-left: 25%;
+}
+
+.heading {
+    background-color: rgb(69, 97, 143);
+    color: Orgb(35, 35, 35);
+    padding: 2rem;
+    margin: 1rem;
+    text-align: center;
+}
+
+container {
+    background-color: black;
+    color: white;
+}
+
+.submit-btn {
+    margin-bottom: 2rem;
+    text-align: center;
+    margin-left: 45%;
+}
+
+.table {
+    width: 95%;
+    justify-content:center;
+    margin-left: 2rem;
+}
+
+table thead {
+    text-align: center;
+}
